@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Frontend Developer whi loves to create amazing web Apps
+I am a Frontend Developer who loves to create amazing web Apps
 
 <!--
 **David-Kalu/David-Kalu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
