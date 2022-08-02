@@ -2,7 +2,8 @@
 
 I am a Frontend Developer who loves to create amazing web Apps
 
-I also love to create reusable components
+I also love to create reusable components and struture my react apps by components and containers
+
 
 <!--
 **David-Kalu/David-Kalu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
