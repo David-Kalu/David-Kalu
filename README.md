@@ -2,7 +2,9 @@
 
 I am a Frontend Developer who loves to create amazing web Apps
 
-I also love to create reusable components and struture my react apps by components and containers
+I also love to create reusable components and struture my react apps by components and containers and posses strog knowledge 
+
+of HTML, CSS3 and Javascript
 
 
 <!--
