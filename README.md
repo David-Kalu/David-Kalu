@@ -6,7 +6,7 @@ I also love to create reusable components and struture my react apps by componen
 
 of HTML, CSS3 and Javascript
 
-📫 How to reach me: @ndubiscuit1998AB
+📫 How to reach me: @ndubiscuit1998ABc
 
 ndubisikalu1@gmail.com
 
