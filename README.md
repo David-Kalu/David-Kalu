@@ -8,7 +8,7 @@ of HTML, CSS3 and Javascript
 
 📫 How to reach me: @ndubiscuit1998ABcde
 
-ndubisikalu1@gmail.com
+ndubisikalu@gmail.com
 
 
 <!--
