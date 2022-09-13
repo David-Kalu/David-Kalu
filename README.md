@@ -10,7 +10,7 @@ of HTML, CSS3 and Javascript
 
 ndubisikalu@gmail.com
 
-Phone:
+Phone:+234
 <!--
 **David-Kalu/David-Kalu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
