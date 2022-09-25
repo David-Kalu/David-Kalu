@@ -10,7 +10,7 @@ of HTML, CSS3 and Javascript
 
 ndubisikalu@gmail.com
 
-Phone:+234816623254
+Phone:+2348166232548
 
 twitter: @Ndubiscuit
 <!--
