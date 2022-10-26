@@ -14,7 +14,7 @@ Phone:+23481662325486
 
 twitter: @Ndubiscuit
 
-linkedIn: http://www.linkedin.com/in/ndubuisi-kalu-b9b493166 
+linkedIn: http://www.linkedin.com/in/ndubuisi-kalu-b9b4931663
 <!--
 **David-Kalu/David-Kalu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
